@@ -16,3 +16,7 @@ Charts:
 Bar Chart: Daily Trend For Total Orders
 Line Chart: Hourly Trend For Hourly Orders
 Pie Chart: Percentage Sales By Sales Category
+Pie Chart: Percentage Sales By Pizza Size
+Funnel Chart: Total Pizzas Sold By Total Category
+Bar Chart: Top 5 Best Sellers By Total Pizzas Sold
+Bar Chart: 5 Worst Sellers By Total Pizzas Sold
