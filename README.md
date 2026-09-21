@@ -11,3 +11,8 @@ Average Order Value: The average amount spent per order, calculating by dividing
 Total Pizzas Sold: The sum of quantities of all pizzas sold.
 Total Orders: Total number of orders placed.
 Average Pizzas Per Orders: The average number of pizzas sold per day, calculated by total number of pizzas sold by total number of orders.
+
+Charts:
+Bar Chart: Daily Trend For Total Orders
+Line Chart: Hourly Trend For Hourly Orders
+Pie Chart: Percentage Sales By Sales Category
